@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyan708&label=Profile%20views&color=0e75b6&style=flat" alt="raiyan708" /> </p>
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Scikit-Learn, TensorFlow**
+- 🌱 I’m currently learning **Data Analysis, Data Visualisation, Scikit-Learn, TensorFlow**
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
